@@ -1,0 +1,13 @@
+
+.key{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    /* background-color: palevioletred; */
+}
+.keyboardflex{
+    justify-content: center;
+    gap: 10px;
+    padding: 5px;
+}
